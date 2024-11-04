@@ -58,7 +58,7 @@ after extracting the files you can run `ids.sh`
 #صدام الشرعبي 
 
 #تلجرام
-<a href="https://t.me/termuxalsharabi">YOU TUBE </a>
+<a href="https://t.me/termuxalsharabi">telegram </a>
  
   
      

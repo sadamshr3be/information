@@ -55,8 +55,7 @@ after extracting the files you can run `ids.sh`
 #
 ` bash ids.sh `
 
-# INVADERS OFC 
-#
+#صدام الشرعبي 
 
 
  
